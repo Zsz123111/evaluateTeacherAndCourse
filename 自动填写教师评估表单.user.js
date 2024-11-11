@@ -17,8 +17,8 @@
     });
 
     // 填写主观题的默认答案
-    document.querySelector('textarea[name="item_1403"]').value = "老师教学严谨，课程内容丰富，讲解清晰。";
-    document.querySelector('textarea[name="item_1404"]').value = "希望增加课堂讨论环节，进一步激发学习兴趣。";
+    document.querySelector('textarea[name="item_1403"]').value = "老师教学内容贯通、严谨、科学，学习气氛活跃。";
+    document.querySelector('textarea[name="item_1404"]').value = "希望增加课后作业环节，进一步巩固学习内容。";
 
     // 检查并填写验证码（请手动输入验证码）
     document.querySelector('input[name="adminValidateCode"]').focus();
