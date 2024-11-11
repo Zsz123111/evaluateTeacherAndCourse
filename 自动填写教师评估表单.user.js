@@ -23,7 +23,4 @@
     // 检查并填写验证码（请手动输入验证码）
     document.querySelector('input[name="adminValidateCode"]').focus();
 
-    // 自动提交表单
-    document.querySelector('#sb1').click();
-
 })();
